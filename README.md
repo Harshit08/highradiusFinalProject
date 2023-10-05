@@ -1,3 +1,3 @@
 # highradiusFinalProject
 
-In this project I havve predicted the due date of customer on which he will clear it's whole remaning due
+In this project, I have predicted the due date of the customer on which he will clear it's whole remaining dues. Datasets were provided by the company.
